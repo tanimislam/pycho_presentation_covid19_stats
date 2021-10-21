@@ -4,3 +4,4 @@
 *.key filter=lfs diff=lfs merge=lfs -text
 *.rtf filter=lfs diff=lfs merge=lfs -text
 *.bcmap filter=lfs diff=lfs merge=lfs -text
+*.pdfp filter=lfs diff=lfs merge=lfs -text
